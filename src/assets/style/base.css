@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  background: linear-gradient(to right, #1a1a1a 30%, #fff 30%);
+  font-family: "Noto Serif", serif;
+}
+
+ul {
+  list-style: none;
+}
